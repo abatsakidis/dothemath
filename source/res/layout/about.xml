@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+   <View
+        android:layout_width="1dp"
+        android:layout_height="5dp" >
+    </View>
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/math_icon" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Το Κάνε την πράξη! είναι ένα απλό" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="αριθμητικό παιχνίδι" />
+    
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="για παιδιά" />
+    
+ <View
+        android:layout_width="1dp"
+        android:layout_height="10dp" >
+    </View>
+     <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Σύμβουλος σχεδιασμού" />
+     
+       <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Λουκανίδου Ντόρα" />
+           
+           <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ειδική παιδαγωγός" />
+       
+        <View
+        android:layout_width="1dp"
+        android:layout_height="10dp" >
+ 
+    </View>
+    
+         <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Προγραμματιστής" />
+         
+          <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Αθανάσιος Μπατσακίδης" />
+        
+   <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="a.batsakidis@re-think.gr" />
+              
+   <View
+        android:layout_width="1dp"
+        android:layout_height="10dp" >
+ 
+    </View>
+           <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Έκδοση 1.0" />
+    
+  
+ <View
+        android:layout_width="1dp"
+        android:layout_height="5dp" >
+    </View>
+    
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Πίσω"
+        
+         />
+    
+     <View
+        android:layout_width="1dp"
+        android:layout_height="20dp" >
+    </View>
+
+</LinearLayout>

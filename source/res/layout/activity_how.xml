@@ -1,0 +1,33 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@drawable/app_back"
+	android:padding="10dp" >
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center" >
+
+		<ImageView
+			android:id="@+id/operators"
+			android:layout_width="100dp"
+			android:layout_height="100dp"
+			android:layout_centerHorizontal="true"
+			android:contentDescription="operators"
+			android:src="@drawable/math_icon" />
+
+		<TextView
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:layout_below="@id/operators"
+		    android:layout_centerHorizontal="true"
+		    android:padding="10dp"
+		    android:text="@string/help_info"
+		    android:textColor="#ffffffff"
+		    android:textSize="16sp" />
+
+	</RelativeLayout>
+
+</ScrollView>
