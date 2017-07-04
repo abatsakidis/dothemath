@@ -5,8 +5,8 @@ android:
   - android-17
   # Additional components
   - extra-android-m2repository
-  android:
+android:
   licenses:
-- android-sdk-license-.+
+  - android-sdk-license-.+
 
 before_install: cd source
