@@ -1,6 +1,4 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/36b4631c52a5402da4106625b51186e5)](https://www.codacy.com/app/a.batsakidis/dothemath?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abatsakidis/dothemath&amp;utm_campaign=Badge_Grade)
-[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/version)](https://packagist.org/packages/phpunit/phpunit)
-
 
 ## Description
 
